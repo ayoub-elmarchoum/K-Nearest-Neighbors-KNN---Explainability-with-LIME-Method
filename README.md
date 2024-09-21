@@ -7,7 +7,6 @@ Ce projet réalise la classification de textes arabes dans les catégories suiva
    - Classification des articles dans les trois catégories mentionnées.
    - Explication des prédictions de KNN grâce à LIME.
    - Visualisation des contributions des caractéristiques aux prédictions.
-   - 
 #Technologies Utilisées :
    - Python
    - Scikit-learn pour KNN
